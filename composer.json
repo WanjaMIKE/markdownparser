@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mnapoli/front-yaml": "^1.8",
+        "michelf/php-markdown": "^1.9"
+    }
+}
